@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IoT Health Outpatient Monitoring System
 
 ## Overview
@@ -16,6 +17,9 @@ This project is an IoT-based health outpatient monitoring system. It monitors pa
 - Cloud: Google Sheets (acts as lightweight database)
 
 ## Folder Structure
+=======
+# health-outpost-monitor
+>>>>>>> 56e74e123862d4396d83eea05416f8438214e3db
 This is our iot project : health outpatient monitoring system
 
 
