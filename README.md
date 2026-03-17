@@ -130,7 +130,7 @@ Share your Google Sheet with the service account email
 4.Run the system:
 python patient.py
 
-5.Open the dashboard: http://<raspberry-pi-ip>:5000
+5.Open the dashboard: http://<raspberry pi ip address>:5000
 
 
 
